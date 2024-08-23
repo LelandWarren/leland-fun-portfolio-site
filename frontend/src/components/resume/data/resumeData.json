@@ -1,0 +1,52 @@
+{
+    "name": "Leland Warren",
+    "title": "Technical Lead, 10+ Years Experience in Software Engineering",
+    "contact": {
+      "email": "leland.a.warren@gmail.com",
+      "phone": "(847) 370-4161",
+      "linkedin": "https://www.linkedin.com/in/lelandwarren/"
+    },
+    "summary": "I am a versatile full-stack developer with experience in building scalable web applications and a passion for learning new technologies. Proficient in frontend and backend development, I enjoy solving complex problems and delivering high-quality solutions.",
+    "experience": [
+      {
+        "company": "86 Repairs",
+        "role": "Technical Lead",
+        "duration": "July 2022 - Present",
+        "responsibilities": [
+          "Directed and implemented projects of multiple engineers on Typescript/Vue/React/Postgres/AWS architecture on both web and mobile applications.",
+          "Spearheaded new architecture for DB-based internal queue system for scalable, highly-available, high-throughput execution of automated/delayed jobs.",
+          "Advanced the development of a new React Native mobile application, enhancing user experience for clients nationwide to examine and interact with their asset management.",
+          "Collaborated (remotely and in-person) with leaders from third party startups for partnerships between respective products and services."
+        ]
+      },
+      {
+        "company": "Sketchy Medical",
+        "role": "Backend Engineer",
+        "duration": "January 2021 - August 2021",
+        "responsibilities": [
+          "Designed new backend SOA architecture in Java Spring/Hibernate for new unified web app.",
+          "Built Stripe integration for processing plan subscriptions for new students.",
+          "Integrated Firebase implementation for login authentication with current database structure."
+        ]
+      }
+      
+    ],
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "AWS",
+      "SQL",
+      "Docker"
+    ],
+    "education": {
+      "degree": "B.Sc. in Computer Engineering",
+      "school": "Marquette University",
+      "period": "2010-2014"
+    },
+    "github": "https://github.com/your-github",
+    "linkedin": "https://www.linkedin.com/in/lelandwarren/",
+    "resumeLink": "/path-to-your-resume.pdf"
+  }
+  
